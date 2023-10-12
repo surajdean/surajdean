@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Suraj! </h1>
 
-<!--
-**surajdean/surajdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛡️ Cybersecurity Projects:</h2>
+- Active Directory Home Lab
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Nothing yet</b>
+
+<h2>📜 Certifications:</h2>
+
+- <b>Google Cybersecurity Certificate</b>
+- <b>CompTIA Security+ (In Progress)</b>
