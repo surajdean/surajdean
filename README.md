@@ -10,4 +10,4 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Google Cybersecurity Certificate</b>
-- <b>CompTIA Security+ (In Progress)</b>
+- <b>CompTIA Security+ </b>
