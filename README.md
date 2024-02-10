@@ -1,17 +1,17 @@
 <h1>👋 Hi, I'm Suraj! <br/> A passionate <a href="https://www.linkedin.com/in/surajdean/">Cybersecurity Professional</a> and <a href="https://github.com/surajdean">Programmer</a></h1>
 
-<h2>📜 Certifications:</h2>
+## 📜 Certifications:
 
-- <b>Google Cybersecurity Certificate</b>
-- <b>CompTIA Security+ </b>
+- CompTIA Security+
+- Google Cybersecurity Certificate
 
-<h2>🛡️ Cybersecurity Projects and Labs:</h2>
+🛡️ Cybersecurity Projects and Labs:
 
-- Vulnerability Assessment Lab
-- Multi Honeypot Platform
-- SIEM Implementation in Azure Cloud
+- Vulnerability Assessment Lab | [Github Guide](https://github.com/surajdean/Vulnerability-Assessment-Lab)
+- Multi Honeypot Platform | [Github Guide](https://github.com/surajdean/Multi-Honeypot-Platform)
+- SIEM Implementation in Azure Cloud | [Github Guide](https://github.com/surajdean/SIEM-Implementation-in-Azure-Cloud)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+👨‍💻 Software Development Projects:
 
 - Fill in later
 
