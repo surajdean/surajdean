@@ -4,6 +4,8 @@
 
 - CompTIA Security+
 - Google Cybersecurity Certificate
+- AZ-900 (In-Progress)
+- AI-900 (In-Progress)
 
 🛡️ Cybersecurity Projects and Labs:
 
